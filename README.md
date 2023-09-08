@@ -1,9 +1,7 @@
 # snake-game
 -----Tiếng Việt------
-game rắn săn mồi cổ điển 
-sử dụng W,A,S,D để điều khiển con rắn 
+game rắn săn mồi cổ điển
 tải file zip để chơi game 
 ------English------
-classic snake game
-use W,A,S,D to control the snake 
+classic snake game 
 download file zip to play game 
