@@ -1,0 +1,7 @@
+-----User Guide-------
+*Tiếng Việt 
+- sử dụng W,A,S,D để điều khiển con rắn 
+- sử dụng Q để thoát game và R để bắt đầu lại game
+*English 
+-use W,A,S,D to control the snake
+-use Q to quit and R to restart the game 
