@@ -1,0 +1,14 @@
+------Thông báo bug------
+-Chưa cập nhật highscore (đang fix)
+------Dự định-------
+-Cập nhật highscore 
+-Thêm tính năng chọn độ khó cho game
+-Thêm màn hình bắt đầu game 
+
+------Bug notification------
+-Highscore has not been updated (being fixing)
+-----------Plan-------------
+-Update highscore 
+-Add difficulty selection feature for the game 
+-Add game start screen 
+
